@@ -2,7 +2,7 @@
 # Hi there 👋, I'm Andy!
 
 <!-- Add a brief introduction -->
-I'm a MSc Computing student at Imperial College London with a passion for programming. I enjoy working on github projects and always look for ways to improve my skills in programming.
+I'm a MSc Computing student at Imperial College London with a passion for anything to do with computers. I enjoy working on github projects and always look for ways to improve my skills in programming.
 
 ## 🌱 What I'm Learning
 
