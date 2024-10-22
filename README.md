@@ -14,7 +14,7 @@ I'm currently learning more about:
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyXIP&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=AndyXIP&show_icons=true&theme=radical)
 
 ## 💬 Get in Touch
 
