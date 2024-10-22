@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**AndyXIP/AndyXIP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Andy!
 
-Here are some ideas to get you started:
+<!-- Add a brief introduction -->
+I'm a MSc Computing student at Imperial College London with a passion for programming. I enjoy working on github projects and always look for ways to improve my skills in programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- You can include a nice GIF or image here -->
+![Profile GIF](https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif)
+
+## 🌱 What I'm Learning
+
+I'm currently learning more about:
+
+- C++ OOP
+- Web Development
+- Python
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyXIP&show_icons=true&theme=radical)
+
+## 💬 Get in Touch
+
+- LinkedIn: [Andy Peng](https://www.linkedin.com/in/andy-x-peng/)
+
+Thanks for visiting my profile! 😄
