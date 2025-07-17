@@ -15,7 +15,7 @@ I'm currently learning more about:
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyXIP&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=your_username&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=AndyXIP&theme=radical)
 
 ## 💬 Get in Touch
 
